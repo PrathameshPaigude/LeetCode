@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
+| [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -34,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
+| [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 <!---LeetCode Topics End-->
