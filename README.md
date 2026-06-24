@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
