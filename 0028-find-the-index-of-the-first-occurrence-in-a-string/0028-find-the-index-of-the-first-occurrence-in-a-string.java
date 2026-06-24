@@ -2,15 +2,16 @@ class Solution {
     public int strStr(String haystack, String needle) {
         int i = 0;
         int j = needle.length();
-        while ( j <= haystack.length())
-        {
-            if ( haystack.substring( i, j).equals(needle)) return i;
-            i ++;
-            j ++; 
+
+        while (j <= haystack.length()) {
+
+            if (haystack.substring(i, j).equals(needle))
+                return i;
+
+            i++;
+            j++;
         }
-    
-        
-    return -1;
-        
+
+        return -1;
     }
 }
