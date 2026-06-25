@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrathameshPaigude/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrathameshPaigude/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
