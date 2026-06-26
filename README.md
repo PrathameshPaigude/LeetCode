@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PrathameshPaigude/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PrathameshPaigude/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 ## Sorting
@@ -56,5 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrathameshPaigude/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
