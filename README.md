@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshPaigude/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/PrathameshPaigude/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PrathameshPaigude/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshPaigude/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PrathameshPaigude/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrathameshPaigude/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshPaigude/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PrathameshPaigude/LeetCode/tree/master/0657-robot-return-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
