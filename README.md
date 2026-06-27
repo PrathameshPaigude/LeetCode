@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrathameshPaigude/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrathameshPaigude/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrathameshPaigude/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
