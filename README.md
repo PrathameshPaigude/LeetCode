@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrathameshPaigude/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrathameshPaigude/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
