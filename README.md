@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/PrathameshPaigude/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PrathameshPaigude/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrathameshPaigude/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrathameshPaigude/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrathameshPaigude/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrathameshPaigude/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
