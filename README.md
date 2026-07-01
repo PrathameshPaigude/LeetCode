@@ -141,8 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/PrathameshPaigude/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/PrathameshPaigude/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
