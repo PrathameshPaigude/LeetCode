@@ -1,6 +1,7 @@
 class Solution {
 
     ListNode ans = null;
+    ListNode tail = null;
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
@@ -33,17 +34,15 @@ class Solution {
 
     public void add(int val) {
 
+        ListNode node = new ListNode(val);
+
         if (ans == null) {
-            ans = new ListNode(val);
+            ans = node;
+            tail = node;
             return;
         }
 
-        ListNode temp = ans;
-
-        while (temp.next != null) {
-            temp = temp.next;
-        }
-
-        temp.next = new ListNode(val);
+        tail.next = node;
+        tail = tail.next;
     }
 }
