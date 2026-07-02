@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
 | [0917-reverse-only-letters](https://github.com/PrathameshPaigude/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String Matching
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrathameshPaigude/LeetCode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/PrathameshPaigude/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshPaigude/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/PrathameshPaigude/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
