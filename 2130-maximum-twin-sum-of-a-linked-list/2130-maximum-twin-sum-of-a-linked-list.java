@@ -9,25 +9,41 @@
  * }
  */
 class Solution {
-    public int pairSum(ListNode head) {
-        HashMap< Integer, Integer> map = new HashMap<>();
-        ListNode temp = head;
-        int index = 0;
-        while( temp != null)
-        {
-            map.put(index, temp.val);
-            index ++;
-            temp = temp.next;
-        }
-        int sum = Integer.MIN_VALUE;
-        int i = 0;
-        while( i <= (index - 1) / 2)
-        {
-            sum = Math.max( sum, map.get(i) + map.get(index-1-i));
-            i ++;
-        }
-        return sum;
 
-        
+    public int pairSum(ListNode head) {
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode prev = null;
+        ListNode temp = slow;
+
+        while (temp != null) {
+
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+        }
+
+        int ans = 0;
+
+        ListNode first = head;
+        ListNode second = prev;
+
+        while (second != null) {
+
+            ans = Math.max(ans, first.val + second.val);
+
+            first = first.next;
+            second = second.next;
+        }
+
+        return ans;
     }
 }
