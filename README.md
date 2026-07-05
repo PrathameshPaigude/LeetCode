@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/PrathameshPaigude/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0917-reverse-only-letters](https://github.com/PrathameshPaigude/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrathameshPaigude/LeetCode/tree/master/0049-group-anagrams) |
+| [0287-find-the-duplicate-number](https://github.com/PrathameshPaigude/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/PrathameshPaigude/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/PrathameshPaigude/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
