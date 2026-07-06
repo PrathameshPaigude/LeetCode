@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PrathameshPaigude/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
+| [1288-remove-covered-intervals](https://github.com/PrathameshPaigude/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrathameshPaigude/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrathameshPaigude/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PrathameshPaigude/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PrathameshPaigude/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshPaigude/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1288-remove-covered-intervals](https://github.com/PrathameshPaigude/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrathameshPaigude/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
