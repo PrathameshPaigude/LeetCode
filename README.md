@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/PrathameshPaigude/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/PrathameshPaigude/LeetCode/tree/master/1002-find-common-characters) |
 | [1288-remove-covered-intervals](https://github.com/PrathameshPaigude/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrathameshPaigude/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrathameshPaigude/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrathameshPaigude/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/PrathameshPaigude/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/PrathameshPaigude/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrathameshPaigude/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
@@ -236,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
