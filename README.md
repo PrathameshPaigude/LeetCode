@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrathameshPaigude/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PrathameshPaigude/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathameshPaigude/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrathameshPaigude/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PrathameshPaigude/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrathameshPaigude/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PrathameshPaigude/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathameshPaigude/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PrathameshPaigude/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/PrathameshPaigude/LeetCode/tree/master/1472-design-browser-history) |
