@@ -3,7 +3,7 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
-        // Step 1: find min and max
+        
         for (int num : nums) {
             min = Math.min(min, num);
             max = Math.max(max, num);
